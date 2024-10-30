@@ -32,42 +32,42 @@ marp: true
 ---
 ### 1. Idea de la aplicación.
 
-- **La aplicación consiste en una tienda online llamada Garakohandamde que esta destinada a la venta de productos artesanales hechas por un familiar mío.
+- La aplicación consiste en una tienda online llamada Garakohandamde que esta destinada a la venta de productos artesanales hechas por un familiar mío.
 
-- **La idea es llevar a todo el publico interesado la opción de poder hacer pedidos de los productos disponibles en la web y también la posibilidad de consultar si alguna idea en mente es posible para poder llevar a cabo un estudio y darle una respuesta al cliente. Esta ultima funcionalidad servirá para ampliar la creatividad y conexión entre el cliente y el artesano, ofreciendo una experiencia personalizada y de valor único.
+- La idea es llevar a todo el publico interesado la opción de poder hacer pedidos de los productos disponibles en la web y también la posibilidad de consultar si alguna idea en mente es posible para poder llevar a cabo un estudio y darle una respuesta al cliente. Esta ultima funcionalidad servirá para ampliar la creatividad y conexión entre el cliente y el artesano, ofreciendo una experiencia personalizada y de valor único.
   
 ---
 ### 2. Audicencia objetivo.
 
-- **El público objetivo son personas interesadas en productos únicos, hechos a mano, y que valoren la personalización y creatividad en los regalos y decoraciones.
+- El público objetivo son personas interesadas en productos únicos, hechos a mano, y que valoren la personalización y creatividad en los regalos y decoraciones.
 
--  **Este tipo de cliente tiende a preferir artículos con un toque artesanal, personalizado y exclusivo, como por ejemplo: decoraciones para el hogar, regalos para ocasiones especiales, recuerdos, entre otros.
+- Este tipo de cliente tiende a preferir artículos con un toque artesanal, personalizado y exclusivo, como por ejemplo: decoraciones para el hogar, regalos para ocasiones especiales, recuerdos, entre otros.
 
 ---
 ### 3. Análisis de mercado.
 
-- **Actualmente, existen plataformas de manualidades y productos artesanales como Etsy o Amazon Handmade. Sin embargo, estas plataformas no suelen ofrecer un método directo para que los clientes propongan ideas específicas que el artesano pueda desarrollar exclusivamente para ellos.
+- Actualmente, existen plataformas de manualidades y productos artesanales como Etsy o Amazon Handmade. Sin embargo, estas plataformas no suelen ofrecer un método directo para que los clientes propongan ideas específicas que el artesano pueda desarrollar exclusivamente para ellos.
 
-- **Esta aplicación se diferenciaría al incorporar una herramienta de personalización y consulta directa con el artesano. Esta diferenciación ofrece un valor añadido de exclusividad, creatividad y experiencia personalizada.
+- Esta aplicación se diferenciaría al incorporar una herramienta de personalización y consulta directa con el artesano. Esta diferenciación ofrece un valor añadido de exclusividad, creatividad y experiencia personalizada.
 
 ---
 ### 4. Funcionalidades claves.
 
-1- **Catálogo de productos: Sección donde los usuarios podrán navegar por el catálogo de manualidades disponibles, con detalles sobre cada producto, precios y materiales usados.
+1- Catálogo de productos: Sección donde los usuarios podrán navegar por el catálogo de manualidades disponibles, con detalles sobre cada producto, precios y materiales usados.
 
-2- **Sistema de autenticación: Permitir que los usuarios se registren y creen una cuenta para acceder a funciones adicionales.
+2- Sistema de autenticación: Permitir que los usuarios se registren y creen una cuenta para acceder a funciones adicionales.
 
-3- **Consulta de ideas personalizadas: Espacio donde el cliente podrá enviar ideas, dibujos o descripciones de un producto que desea que el artesano desarrolle. Esta consulta podrá incluir detalles como materiales preferidos, colores y presupuesto.
+3- Consulta de ideas personalizadas: Espacio donde el cliente podrá enviar ideas, dibujos o descripciones de un producto que desea que el artesano desarrolle. Esta consulta podrá incluir detalles como materiales preferidos, colores y presupuesto.
 
-4- **Sistema de presupuesto y aprobación de ideas: Una vez que el cliente envía su propuesta, el artesano podrá revisarla y generar un presupuesto estimado, que el cliente deberá aprobar antes de iniciar la producción.
+4- Sistema de presupuesto y aprobación de ideas: Una vez que el cliente envía su propuesta, el artesano podrá revisarla y generar un presupuesto estimado, que el cliente deberá aprobar antes de iniciar la producción.
 
-5- **Gestión de pedidos y seguimiento: Los usuarios podrán consultar el estado de sus pedidos, tanto de productos en catálogo como de encargos personalizados, y recibir notificaciones sobre el proceso.
+5- Gestión de pedidos y seguimiento: Los usuarios podrán consultar el estado de sus pedidos, tanto de productos en catálogo como de encargos personalizados, y recibir notificaciones sobre el proceso.
 
-7- **Pasarela de pago: Integración con plataformas de pago seguras para que los clientes puedan completar sus compras en línea.
+7- Pasarela de pago: Integración con plataformas de pago seguras para que los clientes puedan completar sus compras en línea.
 
-8- **Chat o contacto directo con el artesano: Herramienta de mensajería para facilitar la comunicación con el artesano y resolver dudas sobre personalización o detalles de los productos.
+8- Chat o contacto directo con el artesano: Herramienta de mensajería para facilitar la comunicación con el artesano y resolver dudas sobre personalización o detalles de los productos.
 
-9- **Apartado de favoritos o lista de deseos: Los usuarios podrán guardar en una misma lista artículos que desean para futuras compras y una vez comprado podrán borrarlos de la lista.
+9- Apartado de favoritos o lista de deseos: Los usuarios podrán guardar en una misma lista artículos que desean para futuras compras y una vez comprado podrán borrarlos de la lista.
 
 ---
 ### 5. Modelos de ejecución.
@@ -84,8 +84,8 @@ marp: true
 
 Las tecnologías/lenguajes que utilizare son: HTML5, SCSS, JavaScript, NodeJS y Vue.
 
-1- **Fronted:
-    -  ***-**  HTML5 y SCSS: Para la estructura y el diseño de la interfaz de usuario.
+1- **Fronted**:
+    -  ***-**  HTML5 y SCSS: Para la estructura y el diseño de la interfaz de usuario.*
 
 ---
 ### 8. Compatibilidad en navegadores.
