@@ -5,13 +5,13 @@ marp: true
 
 # - *ÍNDICE* -
 
-- ####  1. Idea de la aplicación.
+- ###  1. Idea de la aplicación.
     - ***-** Describir de manera clara y concisa la idea de la aplicación web y su propósito.*
 
-- #### 2. Audiecnia objetivo.
+- ### 2. Audiecnia objetivo.
     - ***-** Definir el público para el que está destinada la aplicación, explicando su relevancia y cómo se beneficiarán de la aplicación.*
 
-- #### 3. Análisis de mercado.
+- ### 3. Análisis de mercado.
     - ***-**  Investigar y analizar aplicaciones similares en el mercado. Identificar características comunes y oportunidades de diferenciación para la nueva aplicación, destacando qué valor añadido ofrecerá.*
 
 - ### 4. Funcionalidades clave.
@@ -30,33 +30,64 @@ marp: true
     - ***-**  Realizar un estudio sobre cómo los diferentes navegadores manejan JavaScript y otros lenguajes utilizados en el desarrollo web, identificando problemas de compatibilidad y soluciones. Incluye un análisis sobre cómo la integración de lenguajes de marcas y lenguajes de programación afecta la compatibilidad y el rendimiento de la aplicación en diferentes navegadores.*
 
 ---
-### 1. Modelos de Programación en Arquitectura Web.
-#### Investigación de los modelos cliente/servidor más comunes.
+### 1. Idea de la aplicación.
 
-- **Single Page Application (SPA)**:  es una aplicación web que carga todo su contenido en una sola página sin recargar la página completa al navegar.
+- **La aplicación consiste en una tienda online llamada Garakohandamde que esta destinada a la venta de productos artesanales hechas por un familiar mío.
 
-<img src="SPA.png" width="220"/>
+- **La idea es llevar a todo el publico interesado la opción de poder hacer pedidos de los productos disponibles en la web y también la posibilidad de consultar si alguna idea en mente es posible para poder llevar a cabo un estudio y darle una respuesta al cliente. Esta ultima funcionalidad servirá para ampliar la creatividad y conexión entre el cliente y el artesano, ofreciendo una experiencia personalizada y de valor único.
+  
+---
+### 2. Audicencia objetivo.
 
-- **Arquitectura de Aplicaciones Web Progresivas (PWA)**: es una única página que proporciona capacidades offline para tu aplicación web. 
+- **El público objetivo son personas interesadas en productos únicos, hechos a mano, y que valoren la personalización y creatividad en los regalos y decoraciones.
 
-<img src="PWA.png" width="280"/>
-
-- **Arquitectura de Renderizado del Lado Servidor (SSR)**:  renderizado de las páginas web desde un servidor backend después de que un usuario las solicite.
-
-<img src="SSR.png" width="400"/>
-
-#### Identificación de ejmplos de aplicaciones que utilizan cada modelo.
-
-- **Single Page Application**: algunos ejemplos de una SPA son Gmail, LinkedIn o Twitter.
-
-<img src="Eje SPA.png" width="220"/>
-
-- **Aplicaciones Web Progresivas**: hay ejemplos de PWA como Google Maps, Uber, Instagram, Facebook, etc.
-
-<img src="Eje PWA.png" width="220"/>
-
-- **Renderizado del Lado Servidor**: ejemplos son principalmente blogs o sitios web de comercio electrónico.
-
-<img src="Eje SSR.png" width="220"/>
+-  **Este tipo de cliente tiende a preferir artículos con un toque artesanal, personalizado y exclusivo, como por ejemplo: decoraciones para el hogar, regalos para ocasiones especiales, recuerdos, entre otros.
 
 ---
+### 3. Análisis de mercado.
+
+- **Actualmente, existen plataformas de manualidades y productos artesanales como Etsy o Amazon Handmade. Sin embargo, estas plataformas no suelen ofrecer un método directo para que los clientes propongan ideas específicas que el artesano pueda desarrollar exclusivamente para ellos.
+
+- **Esta aplicación se diferenciaría al incorporar una herramienta de personalización y consulta directa con el artesano. Esta diferenciación ofrece un valor añadido de exclusividad, creatividad y experiencia personalizada.
+
+---
+### 4. Funcionalidades claves.
+
+1- **Catálogo de productos: Sección donde los usuarios podrán navegar por el catálogo de manualidades disponibles, con detalles sobre cada producto, precios y materiales usados.
+
+2- **Sistema de autenticación: Permitir que los usuarios se registren y creen una cuenta para acceder a funciones adicionales.
+
+3- **Consulta de ideas personalizadas: Espacio donde el cliente podrá enviar ideas, dibujos o descripciones de un producto que desea que el artesano desarrolle. Esta consulta podrá incluir detalles como materiales preferidos, colores y presupuesto.
+
+4- **Sistema de presupuesto y aprobación de ideas: Una vez que el cliente envía su propuesta, el artesano podrá revisarla y generar un presupuesto estimado, que el cliente deberá aprobar antes de iniciar la producción.
+
+5- **Gestión de pedidos y seguimiento: Los usuarios podrán consultar el estado de sus pedidos, tanto de productos en catálogo como de encargos personalizados, y recibir notificaciones sobre el proceso.
+
+7- **Pasarela de pago: Integración con plataformas de pago seguras para que los clientes puedan completar sus compras en línea.
+
+8- **Chat o contacto directo con el artesano: Herramienta de mensajería para facilitar la comunicación con el artesano y resolver dudas sobre personalización o detalles de los productos.
+
+9- **Apartado de favoritos o lista de deseos: Los usuarios podrán guardar en una misma lista artículos que desean para futuras compras y una vez comprado podrán borrarlos de la lista.
+
+---
+### 5. Modelos de ejecución.
+
+
+
+---
+### 6. Lenguajes de programación web.
+
+
+
+---
+### 7. Tecnologías a utilizar.
+
+Las tecnologías/lenguajes que utilizare son: HTML5, SCSS, JavaScript, NodeJS y Vue.
+
+1- **Fronted:
+    -  ***-**  HTML5 y SCSS: Para la estructura y el diseño de la interfaz de usuario.
+
+---
+### 8. Compatibilidad en navegadores.
+
+
