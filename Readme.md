@@ -1,7 +1,7 @@
 ---
 marp: true
 ---
-![PortadaPresentacion](portadaPresentacion.png)
+![PortadaPresentacion](portada.png)
 
 # - *ÍNDICE* -
 
