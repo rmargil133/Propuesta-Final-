@@ -82,19 +82,19 @@ marp: true
 ---
 ### 6. Lenguajes de programación web.
 
-- **HTML**: Sirve para estructurar contenido web, utilizado en todas las páginas.
+- **HTML**: Sirve para estructurar y organizar el contenidode una web, utilizado en todas las páginas.
   - **Ventajas**: Despliegue rápido, soportado por todos los navegadores, y archivos pequeños.
   - **Desventajas**: Diseño lento, estático, y etiquetas limitadas.
 
-- **CSS**: Usado junto con HTML para definir la apariencia de la página.
+- **CSS**: Usado junto con HTML para definir la apariencia de la página, es una herramineta muy útil para especificar el aspecto y posicion de los elementos.
   - **Ventajas**: Mantiene la estructura separada de la presentación, eficiente, flexible.
   - **Desventajas**: Curva de aprendizaje, compatibilidad entre navegadores, limitaciones de maquetación.
 
-- **JavaScript**: Lenguaje dinámico que permite interactividad.
+- **JavaScript**: Es uno de los mas usados y es un lenguaje dinámico que permite interactividad.
   - **Ventajas**: Interactividad en tiempo real, manipulación sencilla del DOM.
   - **Desventajas**: Compatibilidad entre navegadores, seguridad deficiente, rendimiento limitado en aplicaciones complejas.
 
-- **TypeScript**: Superset de JavaScript con tipado estático.
+- **TypeScript**: Superset de JavaScript creado por Microsoft con tipado estático que surge para resolver los problema de JavaScript en proyectos de gran scala.
   - **Ventajas**: Mejora la legibilidad y mantenimiento del código.
   - **Desventajas**: Requiere compilación, curva de aprendizaje.
 
@@ -105,13 +105,15 @@ Las tecnologías elegidas para el desarrollo de la aplicación son:
 
 - **Frontend**: HTML5, SCSS, JavaScript, Vue.js.
 - **Backend**: Node.js.
-
+  
+---
 ### 8. Compatibilidad en navegadores.
 
 Los navegadores modernos como Chrome, Firefox, Edge y Safari son compatibles con ECMAScript 6 (ES6) y versiones posteriores, mientras que Internet Explorer presenta problemas con características modernas como las *promesas* y las *funciones flecha*. Utilizar herramientas como **Babel** ayuda a asegurar la compatibilidad en navegadores más antiguos.
 
 Al realizar pruebas de compatibilidad, se observa que los navegadores más modernos tienen una mayor compatibilidad con las API de JavaScript, mientras que navegadores antiguos como Internet Explorer o Opera pueden presentar más dificultades para ejecutar código moderno de manera eficiente.
 
+---
 ### Bibliografía.
 
 **Arquitectura Cliente-Servidor**
