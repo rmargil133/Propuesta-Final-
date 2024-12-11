@@ -103,8 +103,15 @@ marp: true
 
 Las tecnologías elegidas para el desarrollo de la aplicación son:
 
-- **Frontend**: HTML5, SCSS, JavaScript, Vue.js.
+- **Frontend**: HTML5, SASS, JavaScript, Vue.js.
 - **Backend**: Node.js.
+
+- **HTML**: Usaré HTML5 ya que este facilita la integración con SASS y JavaScript, permitiendo crear aplicaciones web interactivas. Ademas de su compatibilidad con diferentes APIs de Javascript o creadas por uno mismo.
+- **SASS**: SASS me será fundamental para proporcionar un diseño atractivo y profesional a la interfaz de usuario. Gracias a algunas de sus fuertes propiedades, puedo crear una estructura flexible y adaptable, lo que asegura que la página sea completamente responsiva y se vea bien en diferentes dispositivos y tamaños de pantalla.
+- **JavaScript**: JavaScript será el lenguaje encargado de manejar la interacción del cliente en mi página web. Es compatible con la mayoria de los navegadores y permite agregar funcionalidades dinámicas que mejoran la experiencia del usuario. Gracias a su capacidad para actualizar el contenido de la página sin necesidad de recargarla, JavaScript es la opción ideal para lograr una web más interactiva y fluida.
+- **Vue.JS**: Vue.js será el framework principal elegido para desarrollar la interfaz de usuario de la aplicación web. Su enfoque basado en componentes facilita la creación de interfaces interactivas y reutilizables, lo que mejora la organización y el mantenimiento del código. Además, Vue.js es ligero, flexible y fácil de integrar con otras tecnologías, lo que me permitirá desarrollar una experiencia de usuario fluida y dinámica. 
+- **Node.JS**: Node.js será la tecnología utilizada para el desarrollo del backend de mi aplicación web, porque al estar basado en JavaScript, me permitirá usar el mismo lenguaje tanto en el cliente como en el servidor, lo que facilita la integración y mejora la eficiencia del desarrollo. Crear un api usando esta tecnología se hace muy cómodo y lo prefiero frente otras como springboot o laravel.
+
   
 ---
 ### 8. Compatibilidad en navegadores.
